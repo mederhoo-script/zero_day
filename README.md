@@ -2,7 +2,7 @@
 UBUNTUN DUAL BOOTING
 ## Overview
 
-This project aims to [provide a brief description of the project and its objectives]. It focuses on [explain the main focus or problem the project addresses] and aims to [outline the intended outcomes or deliverables].
+This project aims to guard you on Ubuntu installation
 
 ## Features
 
